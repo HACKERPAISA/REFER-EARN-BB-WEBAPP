@@ -1,3 +1,40 @@
+# 🚀 Refer & Earn Webapp
+
+Welcome to **Refer & Earn Webapp**, a simple and efficient referral-based earning system! 💰
+
+## 🌟 Features
+
+- **Account Management**: View and manage your account details in [`account.html`](account.html).
+- **Bonus Rewards**: Earn **₹1 bonus every 24 hours** by claiming it in [`bonus.html`](bonus.html).
+- **Referral System**: Get your referral link and check the **Top Referrers** in [`refer.html`](refer.html).
+- **Top Referral List**: Track the best referrers on the leaderboard in [`TopRefList.html`](TopRefList.html).
+- **Notifications**: Receive important updates and event alerts in [`notification.html`](notification.html).
+- **Withdrawal System**: Not implemented yet! You can create it in [`withdrawal.html`](withdrawal.html). 🚀
+
+## 📌 How It Works
+
+1. **Sign up & log in** – Manage your account in `account.html`.
+2. **Claim your daily bonus** – Get ₹1 every 24 hours from `bonus.html`.
+3. **Refer & Earn** – Share your referral link from `refer.html` and increase your earnings!
+4. **Track Top Referrers** – View the leaderboard in `TopRefList.html`.
+5. **Stay Updated** – Check `notification.html` for event alerts.
+
+## 🚧 Upcoming Features
+
+- ✅ **Withdrawal System** – Coming soon in `withdrawal.html`.
+- ✅ **More Bonuses & Rewards**
+- ✅ **Improved UI & Performance**
+
+## 📞 Need Help?
+
+If you have any questions or suggestions, feel free to contribute or report issues! 🚀
+
+---
+
+🔗 **Start Earning Now!**
+
+
+
 # referearwebappbot - chat bot
 It is repository for chat bot: [@referearwebappbot](https://t.me/referearwebappbot)
 
